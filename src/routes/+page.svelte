@@ -34,7 +34,6 @@
           bind:this={searchbox}
           on:keyup={handleKeyUp}
         />
-        <button class="btn btn-primary" on:click={search}>Search</button>
       </div>
     </div>
     <div class="h-5" />
