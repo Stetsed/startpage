@@ -56,7 +56,7 @@
         <div><a href="https://gitlab.com">GitLab</a></div>
       </div>
       <div class="w-1/3 rounded-lg bg-base-200 p-4">
-        <div class="text-yellow-400 p-2 underline underline-offset-3">
+        <div class="text-yellow-500 p-2 underline underline-offset-3">
           Extra
         </div>
         <div><a href="https://duckduckgo.com">DuckDuckGo</a></div>
